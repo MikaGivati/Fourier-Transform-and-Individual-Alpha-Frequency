@@ -96,7 +96,7 @@ it's included to demonstrate the runtime cost of not using FFT, not for speed.
 
 ## Notes
 
-- This was a group assignment, done together with three teammates.
+- This was a group assignment.
 - Data loading is fully automated: filenames don't follow a fixed convention (some
   have extra spaces, inconsistent ordering), so subject number and task (EO/EC) are
   extracted via regex rather than hardcoded.
